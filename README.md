@@ -10,9 +10,7 @@ Experience the classic Snake Game built using HTML, CSS, and JavaScript. Control
 
 ## 🎮 Gameplay Demo
 
-![Snake Game Demo](snake_game_demo.gif)
 
-*Note: Upload this GIF to your repo or host it on GitHub to display correctly.*
 
 ---
 
